@@ -1,0 +1,5 @@
+# Các phiên bản đã được kiểm tra trong môi trường hiện tại.
+langchain==1.4.3
+langgraph==1.2.12
+langchain-google-genai==4.4.0
+pydantic==2.13.5
